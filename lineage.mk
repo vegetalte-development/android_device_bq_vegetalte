@@ -8,6 +8,9 @@ $(call inherit-product, vendor/lineage/config/common_full_phone.mk)
 # Inherit device configuration
 $(call inherit-product, device/bq/vegetalte/full_vegetalte.mk)
 
+# Inherit from those products. Most specific first.
+$(call inherit-product, $(SRC_TARGET_DIR)/product/product_launched_with_k.mk)
+
 PRODUCT_RELEASE_NAME := Aquaris E5
 PRODUCT_NAME := lineage_vegetalte
 
