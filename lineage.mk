@@ -20,3 +20,7 @@ PRODUCT_BUILD_PROP_OVERRIDES += \
    PRIVATE_BUILD_DESC="vegetalte-user 6.0.1 MMB29M 4.0.0.04_20170605-1650 release-keys"
 
 PRODUCT_GMS_CLIENTID_BASE := android-bq
+
+# Vendor security patch level
+PRODUCT_PROPERTY_OVERRIDES += \
+    ro.lineage.build.vendor_security_patch=2017-05-01
