@@ -125,7 +125,7 @@ vendor/lib/libmm-color-convertor.so|84f84fdcf4a752fc8781771f94870286745b534d
 
 # DRM
 bin/qseecomd:vendor/bin/qseecomd|482b5a159b8c14856190c5382be47e3b43ce29be
-vendor/lib/mediadrm/libwvdrmengine.so|f51949313fff0e76ce95e4056fdd2fc92f3deebd
+vendor/lib/mediadrm/libwvdrmengine.so|66ba66d047044f92eb0eada1faf6a5799ded90ab
 vendor/lib/libdrmfs.so|95cdd867daba8a1081aada69555dc59ed70d33bf
 vendor/lib/libdrmtime.so|aa163e8f1eb4c1481beb0c112bac5b84536e69a9
 vendor/lib/libQSEEComAPI.so|3800f60b979389b888cd47c534af490b2c15bf5b
