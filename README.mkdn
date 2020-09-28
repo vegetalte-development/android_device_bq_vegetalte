@@ -21,4 +21,4 @@ Camera  | Primary: 13 MP, f/1.8, phase detection autofocus, dual flash led
 
 Copyright 2017 - The LineageOS Project.
 
-![Aquaris E5 4G](https://it-bqcom15-media.s3.amazonaws.com/prod/images/310_310/d/a/4/b/da4b245d419f746385c172ecd5d613c1254d678a.jpg "BQ Aquaris E5 4G")
+![Aquaris E5 4G](https://github.com/jmpfbmx/device_pics/blob/master/vegetalte.jpg)
